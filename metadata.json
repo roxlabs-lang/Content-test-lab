@@ -1,0 +1,6 @@
+{
+  "name": "Content Test Lab",
+  "description": "Personal social-media research and testing workspace for temporary test accounts, content analysis, and experimental observations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
